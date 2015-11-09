@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Talia!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Program your life, one repo at a time.
 
 ### Contact me
+
+You can find me on GitHub.com/taliamo
 
 [email@domain.com](mailto:email@domain.com)
